@@ -5,6 +5,7 @@ type: [detail-page]
 title: States Landing Page
 permalink: /templates/states/landing
 overview: This template is used for finding information by state or territory.
+This is now out of date and you shoudl reference information in Teams: https://icfonline.sharepoint.com/:f:/r/sites/CWIGRedesign490/Shared%20Documents/Wireframes%20and%20Design/States%20Page?csf=1&web=1&e=lHkulK
 
 description:  The States Landing template houses various resources and information by state.
 
