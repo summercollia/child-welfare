@@ -5,6 +5,7 @@ type: [detail-page]
 title: States Landing Page
 permalink: /templates/states/landing
 overview: This template is used for finding information by state or territory.
+This is now out of date and you shoudl reference information in Teams: https://icfonline.sharepoint.com/:f:/r/sites/CWIGRedesign490/Shared%20Documents/Wireframes%20and%20Design/States%20Page?csf=1&web=1&e=lHkulK
 
 description:  The States Landing template houses various resources and information by state.
 
@@ -42,11 +43,16 @@ alert:
 
 {% include patterns/alert/alert-no-icon-jk.md %}
 
+## Select Menus
+OnPage load on the the first menu shows
+- -- Select Area --
+- States
+- Territories 
+- Tribes
 
-## Hex map
+OnSelect the second menu appears with the options related to the above. _(See content team for list of tribes)_
+
+## Map
 _The prototype uses an image a representative of this experience_
-The hex map usings an unordered list with css styling to layout the state/territory items.
-- onHover/onHold - the hexagon grows and changes color
+- onHover/onHold - the state grows and changes color
 - onClick/onTap - the system goes to the appropriate linked page.
-
-_see [SAMHDA](https://www.datafiles.samhsa.gov/) for an example of how to accomplish_

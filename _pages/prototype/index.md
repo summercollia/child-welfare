@@ -37,7 +37,6 @@ permalink: /prototype/
 
 ## State
 <p><a href="/prototype/states/landing">State Landing</a></p>
-<p><a href="/prototype/states/landing/sm">State Landing (Small Screens)</a> Resize browser to view</p>
 <p><a href="/prototype/states/detail">State Detail</a></p>
 
 
@@ -57,7 +56,7 @@ permalink: /prototype/
 
 ## Timeline
 <p><a href="/prototype/timeline">Timeline</a></p>
-<p><a href="/protoype/timeline-small">Timeline (Small Screens)</a> Resize in browser to view</p>
+<p><a href="/prototype/timeline-small">Timeline (Small Screens)</a> Resize in browser to view</p>
 
 </div>
 
